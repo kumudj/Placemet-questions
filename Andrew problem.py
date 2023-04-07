@@ -32,6 +32,7 @@ The second line consists of N space-separated integers - len[0], len[1], .... le
 Output format
 Print space-separated integers representing the list of the remaining pipes in the warehouse.
 
+
 '''
 
 n=int(input())
