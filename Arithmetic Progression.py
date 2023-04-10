@@ -42,7 +42,6 @@ Explanation
 a2 = 5, a3 = 8, n = 4 d = 3, an = a4 = 11 (d refers to the common difference between adjacent terms in an arithmetic progression)
 
 
-
 Input format
 input1: Second element of series (Integer)
 
